@@ -1,0 +1,40 @@
+.slideshow_container_style-dark .slideshow_controlPanel {
+	width: 20px;
+	height: 20px;
+	margin-left: -10px;
+}
+
+.slideshow_container_style-dark .slideshow_controlPanel ul li {
+	width: 20px;
+	height: 20px;
+}
+
+.slideshow_container_style-dark .slideshow_play {
+	background: url('../images/dark-controlpanel.png') 0 0 no-repeat;
+}
+
+.slideshow_container_style-dark .slideshow_pause {
+	background: url('../images/dark-controlpanel.png') -20px 0 no-repeat;
+}
+
+.slideshow_container_style-dark .slideshow_button {
+	margin-top: -50px;
+	height: 100px;
+	width: 24px;
+	background: url('../images/dark-arrows.png') no-repeat;
+}
+
+.slideshow_container_style-dark .slideshow_next {
+	background-position: -24px 0;
+}
+
+.slideshow_container_style-dark .slideshow_pagination {
+	bottom: 20px;
+}
+
+.slideshow_container_style-dark .slideshow_pagination ul li {
+	margin: 0 2px;
+	width: 15px;
+	height: 15px;
+	background: url('../images/dark-bullet.png') no-repeat;
+}

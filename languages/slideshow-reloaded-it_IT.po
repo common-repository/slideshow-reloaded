@@ -1,0 +1,886 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slideshow Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 11:56+0100\n"
+"PO-Revision-Date: 2014-08-19 11:56+0100\n"
+"Last-Translator: Stefan Boonstra <stefanboonstra@hotmail.com>\n"
+"Language-Team: Stefan Boonstra <wordpress@stefanboonstra.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/SlideshowReloadedGeneralSettings.php:82
+#: includes/SlideshowReloadedGeneralSettings.php:83
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:14
+msgid "General Settings"
+msgstr "Opzioni Generali"
+
+#: includes/SlideshowReloadedGeneralSettings.php:150
+msgid "New"
+msgstr "Nuovo"
+
+#: includes/SlideshowReloadedGeneralSettings.php:151
+msgid "Are you sure you want to delete this custom style?"
+msgstr "Sei sicuro di voler cancellare questo stile personalizzato?"
+
+#: includes/SlideshowReloadedGeneralSettings.php:196
+#: includes/SlideshowReloadedInstaller.php:803
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:6
+msgid "Light"
+msgstr "Chiaro"
+
+#: includes/SlideshowReloadedGeneralSettings.php:197
+#: includes/SlideshowReloadedInstaller.php:803
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:7
+msgid "Dark"
+msgstr "Scuro"
+
+#: includes/SlideshowReloadedGeneralSettings.php:353
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:57
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:143
+msgid "Untitled"
+msgstr "Senza titolo"
+
+#: includes/SlideshowReloadedInstaller.php:800
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:472
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:111
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:43
+msgid "Yes"
+msgstr "Si"
+
+#: includes/SlideshowReloadedInstaller.php:801
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:473
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:112
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:44
+msgid "No"
+msgstr "No"
+
+#: includes/SlideshowReloadedInstaller.php:803
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:610
+msgid "The style used for this slideshow"
+msgstr "Lo stile utilizzato per questo slideshow"
+
+#: includes/SlideshowReloadedInstaller.php:803
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: includes/SlideshowReloadedInstaller.php:804
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:126
+msgid "Custom style editor"
+msgstr "Editor di stile personalizzato"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:518
+msgid "Animation used for transition between slides"
+msgstr "Animazione utilizzata per la transizione tra le diapositive"
+
+#: includes/SlideshowReloadedInstaller.php:805
+msgid "Slide"
+msgstr "Scorrere"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedInstaller.php:806
+#: includes/SlideshowReloadedInstaller.php:807
+#: includes/SlideshowReloadedInstaller.php:808
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:548
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:549
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:550
+msgid "Animation"
+msgstr "Animazione"
+
+#: includes/SlideshowReloadedInstaller.php:806
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:519
+msgid "Number of seconds the slide takes to slide in"
+msgstr "Numero di secondi il vetrino porta a scivolare in"
+
+#: includes/SlideshowReloadedInstaller.php:807
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:520
+msgid "Number of seconds the description takes to slide in"
+msgstr "Numero di secondi la descrizione serve per scorrere in"
+
+#: includes/SlideshowReloadedInstaller.php:808
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:521
+msgid "Seconds between changing slides"
+msgstr "Secondi tra le diapositive che cambiano"
+
+#: includes/SlideshowReloadedInstaller.php:809
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:522
+msgid "Number of slides to fit into one slide"
+msgstr "Numero di diapositive da inserirsi in una presentazione"
+
+#: includes/SlideshowReloadedInstaller.php:809
+#: includes/SlideshowReloadedInstaller.php:810
+#: includes/SlideshowReloadedInstaller.php:811
+#: includes/SlideshowReloadedInstaller.php:812
+#: includes/SlideshowReloadedInstaller.php:813
+#: includes/SlideshowReloadedInstaller.php:814
+#: includes/SlideshowReloadedInstaller.php:815
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:551
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:552
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:553
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:554
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:556
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:557
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:558
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:559
+msgid "Display"
+msgstr "Mostrare"
+
+#: includes/SlideshowReloadedInstaller.php:810
+msgid "Width of the slideshow, set to parent&#39;s width on 0"
+msgstr "Larghezza della presentazione, impostata su 0"
+
+#: includes/SlideshowReloadedInstaller.php:811
+msgid "Height of the slideshow"
+msgstr "Altezza della presentazione"
+
+#: includes/SlideshowReloadedInstaller.php:812
+msgid "Height of the description boxes"
+msgstr "Altezza delle scatole descrizione"
+
+#: includes/SlideshowReloadedInstaller.php:813
+msgid "Fit image into slide (stretching it)"
+msgstr "Inserire un'immagine in diapositiva "
+
+#: includes/SlideshowReloadedInstaller.php:814
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:529
+msgid "Show title and description"
+msgstr "Mostra titolo e una descrizione"
+
+#: includes/SlideshowReloadedInstaller.php:815
+msgid "Hide description box, it will pop up when a mouse hovers over the slide"
+msgstr ""
+"Nascondi casella di descrizione, si aprirà quando il mouse passa sopra la "
+"diapositiva"
+
+#: includes/SlideshowReloadedInstaller.php:816
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:531
+msgid "Automatically slide to the next slide"
+msgstr "Far scorrere automaticamente alla diapositiva successiva"
+
+#: includes/SlideshowReloadedInstaller.php:816
+#: includes/SlideshowReloadedInstaller.php:817
+#: includes/SlideshowReloadedInstaller.php:818
+#: includes/SlideshowReloadedInstaller.php:819
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:560
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:561
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:562
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:563
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:564
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:565
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:566
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:567
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:568
+msgid "Control"
+msgstr "Controllare"
+
+#: includes/SlideshowReloadedInstaller.php:817
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:532
+msgid "Return to the beginning of the slideshow after last slide"
+msgstr "Tornare all'inizio della presentazione dopo l'ultima diapositiva"
+
+#: includes/SlideshowReloadedInstaller.php:818
+msgid "Activate buttons (so the user can scroll through the slides)"
+msgstr "Pulsanti Attiva (in modo che l'utente può scorrere le diapositive)"
+
+#: includes/SlideshowReloadedInstaller.php:819
+msgid "Show control panel (play and pause button)"
+msgstr "Mostra pannello di controllo (tasto play e pausa)"
+
+#: includes/SlideshowReloadedPostType.php:45
+msgid "Slideshows"
+msgstr "Slideshow"
+
+#: includes/SlideshowReloadedPostType.php:46
+#: views/SlideshowReloadedWidget/form.php:7
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: includes/SlideshowReloadedPostType.php:47
+msgid "Add New Slideshow"
+msgstr "Aggiungi nuovo Slideshow"
+
+#: includes/SlideshowReloadedPostType.php:48
+msgid "Edit slideshow"
+msgstr "Modifica slideshow"
+
+#: includes/SlideshowReloadedPostType.php:49
+msgid "New slideshow"
+msgstr "Nuovo slideshow"
+
+#: includes/SlideshowReloadedPostType.php:50
+msgid "View slideshow"
+msgstr "Visualizza slideshow"
+
+#: includes/SlideshowReloadedPostType.php:51
+msgid "Search slideshows"
+msgstr "Cerca slideshow"
+
+#: includes/SlideshowReloadedPostType.php:52
+#: includes/SlideshowReloadedPostType.php:53
+msgid "No slideshows found"
+msgstr "Slideshow non trovato"
+
+#: includes/SlideshowReloadedPostType.php:98
+msgid "Information"
+msgstr "Informazioni"
+
+#: includes/SlideshowReloadedPostType.php:107
+msgid "Slides List"
+msgstr "Lista diapositive"
+
+#: includes/SlideshowReloadedPostType.php:116
+msgid "Slideshow Style"
+msgstr "Stile slideshow"
+
+#: includes/SlideshowReloadedPostType.php:125
+msgid "Slideshow Settings"
+msgstr "Impostazioni slideshow"
+
+#: includes/SlideshowReloadedPostType.php:173
+msgid "Slideshow created"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:177
+msgid "Slideshow updated"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:224
+#: includes/SlideshowReloadedSlideInserter.php:238
+#: views/SlideshowReloadedPostType/slides.php:2
+msgid "Insert"
+msgstr "Inserire"
+
+#: includes/SlideshowReloadedPostType.php:232
+msgid "Open all"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:234
+msgid "Close all"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:240
+#: views/SlideshowReloadedPostType/slides.php:10
+msgid "Add slides to this slideshow by using one of the buttons above."
+msgstr ""
+"Aggiungi diapositive per questo slideshow utilizzando uno dei pulsanti di "
+"qui sopra."
+
+#: includes/SlideshowReloadedPostType.php:320
+msgid "Duplicate"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:371
+msgid "Copy"
+msgstr ""
+
+#: includes/SlideshowReloadedShortcode.php:148
+msgid "No slideshow selected."
+msgstr "Nessun presentazione selezionata."
+
+#: includes/SlideshowReloadedSlideInserter.php:194
+msgid "More results loaded"
+msgstr "Altri risultati caricati"
+
+#: includes/SlideshowReloadedSlideInserter.php:249
+msgid "Load more results"
+msgstr "Carica altri risultati"
+
+#: includes/SlideshowReloadedSlideInserter.php:260
+msgid "No images were found, click here to upload some."
+msgstr "Non ci sono immagini, clicca qui per caricare."
+
+#: includes/SlideshowReloadedSlideInserter.php:332
+msgid "Are you sure you want to delete this slide?"
+msgstr "Sei sicuro di voler eliminare questa diapositiva?"
+
+#: includes/SlideshowReloadedSlideInserter.php:333
+msgid "Insert image slide"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:523
+msgid "Maximum width. When maximum width is 0, maximum width is ignored"
+msgstr ""
+"Larghezza massima. Quando la larghezza massima è pari a 0, la larghezza "
+"massima è ignorato"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+msgid "http://en.wikipedia.org/wiki/Aspect_ratio_(image)"
+msgstr "http://en.wikipedia.org/wiki/Aspect_ratio_(image)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+msgid "More info"
+msgstr "Maggiori informazioni"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+#, php-format
+msgid ""
+"Proportional relationship%s between slideshow's width and height (width:"
+"height)"
+msgstr ""
+"Relazione proporzionale%s tra larghezza di slideshow e l'altezza (larghezza: "
+"altezza)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:525
+msgid "Slideshow's height"
+msgstr "Altezza Slideshow"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:526
+msgid "Image behaviour"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:527
+msgid "Shrink slideshow's height when width shrinks"
+msgstr "Riduci la quota di presentazione quando si restringe larghezza"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:528
+msgid ""
+"Enable responsiveness (Shrink slideshow's width when page's width shrinks)"
+msgstr ""
+"Abilitare la reattività (Riduci la larghezza di presentazione quando si "
+"riduce la larghezza di pagina)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:530
+msgid "Hide description box, pop up when mouse hovers over"
+msgstr "Nascondi casella di descrizione, pop-up quando si passa il mouse sopra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:533
+msgid "Pause slideshow when mouse hovers over"
+msgstr "Slideshow in pausa quando il mouse passa sopra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:534
+msgid "Activate navigation buttons"
+msgstr "Attiva pulsanti di navigazione"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:535
+msgid "Hide navigation buttons, show when mouse hovers over"
+msgstr "Nascondi pulsanti di navigazione, mostrare quando il mouse passa sopra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:536
+msgid "Activate pagination"
+msgstr "Attiva paginazione"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:537
+msgid "Hide pagination, show when mouse hovers over"
+msgstr "Nascondi impaginazione, mostrare quando il mouse passa sopra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:538
+msgid "Activate control panel (play and pause button)"
+msgstr "Pannello di controllo Attiva (tasto play e pausa)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:539
+msgid "Hide control panel, show when mouse hovers over"
+msgstr ""
+"Nascondere il pannello di controllo, mostrare quando il mouse passa sopra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:540
+msgid "Wait until the next slide has loaded before showing it"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:541
+msgid "Show a loading icon until the first slide appears"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:542
+msgid "Randomize slides"
+msgstr "Diapositive casuale"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:543
+#, php-format
+msgid "Avoid content filter (disable if '%s' is shown)"
+msgstr "Filtro dei contenuti (disabilitare se viene mostrato '%s')"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Left"
+msgstr "Scorrere verso sinistra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Right"
+msgstr "Scorrere verso destra"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Up"
+msgstr "Scorrere verso l'alto"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Down"
+msgstr "Scorrere verso il basso"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Cross Fade"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Direct Fade"
+msgstr "Dissolvenza"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Random Animation"
+msgstr "Animazione casuale"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Natural and centered"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Crop to fit"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Stretch to fit"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:569
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:570
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:571
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:572
+msgid "Miscellaneous"
+msgstr "Varie"
+
+#: includes/SlideshowReloadedWidget.php:23
+msgid "Enables you to show your slideshows in the widget area of your website."
+msgstr ""
+"Consente di mostrare le vostre presentazioni nell'area widget di del tuo "
+"sito web."
+
+#: includes/SlideshowReloadedWidget.php:29
+msgid "Slideshow Widget"
+msgstr "Slideshow Widget"
+
+#: views/SlideshowReloaded/slideshow.php:23
+msgid "Play"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:23
+msgid "Pause"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:25
+msgid "Previous"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:26
+msgid "Next"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:28
+msgid "Go to slide"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:46
+msgid "Default stylesheets"
+msgstr "Fogli di stile di default"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:60
+msgid "Create a new custom style from this style"
+msgstr "Creare un nuovo stile personalizzato da questo stile"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:62
+msgid "Customize"
+msgstr "Personalizza"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:76
+msgid "Custom stylesheets"
+msgstr "Fogli di stile personalizzati"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:89
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:172
+msgid "Edit this style"
+msgstr "Modifica questo stile"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:91
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:174
+#: views/SlideshowReloadedPostType/slides.php:138
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:112
+msgid "Edit"
+msgstr "Modifica"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:98
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:181
+msgid "Delete this style"
+msgstr "Elimina questo stile"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:100
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:183
+msgid "Delete"
+msgstr "Cancella"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:110
+msgid "Click 'Customize' to create a new custom stylesheet."
+msgstr ""
+"Fare clic su 'Personalizza' per creare un nuovo foglio di stile "
+"personalizzato."
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:130
+msgid "Select a stylesheet to start customizing it."
+msgstr ""
+"Selezionare un foglio di stile da sinistra per iniziare a personalizzare."
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:139
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:192
+#: views/SlideshowReloadedPostType/slides.php:59
+#: views/SlideshowReloadedPostType/slides.php:144
+#: views/SlideshowReloadedPostType/slides.php:196
+#: views/SlideshowReloadedPostType/slides.php:264
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:120
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:18
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:150
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:80
+#: views/SlideshowReloadedWidget/form.php:2
+msgid "Title"
+msgstr "Titolo"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:148
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:200
+msgid "Style"
+msgstr "Stile"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:11
+msgid "Note"
+msgstr "Note"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:18
+#, php-format
+msgid ""
+"The settings set on this page apply only to newly created slideshows and "
+"therefore do not alter any existing ones. To adapt a slideshow's settings, "
+"%sclick here.%s"
+msgstr ""
+"Le impostazioni definite in questa pagina si applicano solo alle "
+"presentazioni di nuova costituzione e, pertanto, non incidono sui quelli "
+"esistenti. Per adattare le impostazioni di una presentazione, %sclick here.%s"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:29
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:15
+msgid "Default Slideshow Settings"
+msgstr "Impostazioni Slideshow di default"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:41
+#: views/SlideshowReloadedPostType/settings.php:12
+msgid "settings"
+msgstr "impostazioni"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:77
+msgid "Default Slideshow Stylesheet"
+msgstr "Slideshow con foglio di stile predefinito"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:11
+msgid "Add slideshows"
+msgstr "Aggiungi slideshows"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:12
+msgid "Edit slideshows"
+msgstr "Modifica slideshow"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:13
+msgid "Delete slideshows"
+msgstr "Elimina slideshow"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:20
+msgid "User Capabilities"
+msgstr "Funzionalità utente"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:22
+msgid "Select the user roles that will able to perform certain actions."
+msgstr ""
+"Selezionare i ruoli utente, che sarà in grado di eseguire determinate azioni."
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:38
+msgid "Untitled role"
+msgstr "Ruolo senza titolo"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:65
+msgid "Settings"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:69
+msgid "Stylesheet location"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:72
+msgid "top"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:73
+msgid "bottom"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:16
+msgid "Custom Styles"
+msgstr "Stili personalizzati"
+
+#: views/SlideshowReloadedPostType/information.php:1
+msgid ""
+"To use this slideshow in your website either add this piece of shortcode to "
+"your posts or pages"
+msgstr ""
+"Per utilizzare questo slideshow nel tuo sito web o aggiungi questo pezzo di "
+"shortcode ai tuoi post o le pagine"
+
+#: views/SlideshowReloadedPostType/information.php:5
+msgid ""
+"Or add this piece of code to where ever in your website you want to place "
+"the slideshow"
+msgstr ""
+"Oppure aggiungi questo pezzo di codice dove mai nel vostro sito web che si "
+"desidera posizionare la presentazione"
+
+#: views/SlideshowReloadedPostType/information.php:9
+#, php-format
+msgid "Or go to the %swidgets page%s and show the slideshow as a widget."
+msgstr ""
+"Fare clic su %swidgets page%s per creare un nuovo foglio di stile "
+"personalizzato."
+
+#: views/SlideshowReloadedPostType/settings.php:26
+#: views/SlideshowReloadedPostType/style-settings.php:11
+msgid "Default"
+msgstr "Default"
+
+#: views/SlideshowReloadedPostType/slides.php:54
+#: views/SlideshowReloadedPostType/slides.php:191
+#: views/SlideshowReloadedSlideInserter/insert-text-button.php:2
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:9
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:69
+msgid "Text slide"
+msgstr "Testo scorrevole"
+
+#: views/SlideshowReloadedPostType/slides.php:61
+#: views/SlideshowReloadedPostType/slides.php:150
+#: views/SlideshowReloadedPostType/slides.php:198
+#: views/SlideshowReloadedPostType/slides.php:270
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:135
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:33
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:165
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:95
+msgid "Description"
+msgstr "Descrizione"
+
+#: views/SlideshowReloadedPostType/slides.php:63
+#: views/SlideshowReloadedPostType/slides.php:200
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:51
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:113
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: views/SlideshowReloadedPostType/slides.php:68
+#: views/SlideshowReloadedPostType/slides.php:155
+#: views/SlideshowReloadedPostType/slides.php:205
+#: views/SlideshowReloadedPostType/slides.php:275
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:150
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:59
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:180
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:121
+msgid "URL"
+msgstr "URL"
+
+#: views/SlideshowReloadedPostType/slides.php:70
+#: views/SlideshowReloadedPostType/slides.php:157
+#: views/SlideshowReloadedPostType/slides.php:207
+#: views/SlideshowReloadedPostType/slides.php:277
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:153
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:62
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:183
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:124
+msgid "Open URL in"
+msgstr "Apri URL nel"
+
+#: views/SlideshowReloadedPostType/slides.php:72
+#: views/SlideshowReloadedPostType/slides.php:159
+#: views/SlideshowReloadedPostType/slides.php:209
+#: views/SlideshowReloadedPostType/slides.php:279
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:155
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:64
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:185
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:126
+msgid "Same window"
+msgstr "Stessa finestra"
+
+#: views/SlideshowReloadedPostType/slides.php:73
+#: views/SlideshowReloadedPostType/slides.php:160
+#: views/SlideshowReloadedPostType/slides.php:210
+#: views/SlideshowReloadedPostType/slides.php:280
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:156
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:65
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:186
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:127
+msgid "New window"
+msgstr "Nuova finestra"
+
+#: views/SlideshowReloadedPostType/slides.php:90
+#: views/SlideshowReloadedPostType/slides.php:230
+#: views/SlideshowReloadedSlideInserter/insert-video-button.php:2
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:94
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:26
+msgid "Video slide"
+msgstr "Video slideshow"
+
+#: views/SlideshowReloadedPostType/slides.php:95
+#: views/SlideshowReloadedPostType/slides.php:235
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:103
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:35
+msgid "Youtube Video ID"
+msgstr "Youtube Video ID"
+
+#: views/SlideshowReloadedPostType/slides.php:133
+#: views/SlideshowReloadedPostType/slides.php:255
+#: views/SlideshowReloadedSlideInserter/insert-image-button.php:2
+#: views/SlideshowReloadedSlideInserter/insert-image-button.php:4
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:101
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:135
+msgid "Image slide"
+msgstr "Slideshow mmagine"
+
+#: views/SlideshowReloadedPostType/slides.php:171
+msgid ""
+"An error occurred while loading this slide, and it will not be present in "
+"the slideshow"
+msgstr ""
+"Si è verificato un errore durante il caricamento di questa diapositiva, e "
+"non sarà presente nello slideshow"
+
+#: views/SlideshowReloadedPostType/slides.php:177
+#: views/SlideshowReloadedPostType/slides.php:218
+#: views/SlideshowReloadedPostType/slides.php:243
+#: views/SlideshowReloadedPostType/slides.php:289
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:174
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:76
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:117
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:203
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:138
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:49
+msgid "Delete slide"
+msgstr "Elimina diapositiva"
+
+#: views/SlideshowReloadedPostType/style-settings.php:22
+#, php-format
+msgid "Custom styles can be created and customized %shere%s."
+msgstr "Stili personalizzati possono essere creati e personalizzati %squi%s."
+
+#: views/SlideshowReloadedPostType/support-plugin.php:3
+msgid "Help to keep this plugin free!"
+msgstr "Aiuta a mantenere questo plugin gratuito!"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:6
+msgid ""
+"In order to keep you provided with the newest features, updates and bug "
+"fixes, a lot of motivation is required. Therefore I'm kindly asking you to "
+"consider making a small donation to the plugin or rating it as 5-stars on "
+"Wordpress.org. Thank you in advance!"
+msgstr ""
+"Per mantenere il plugin con le caratteristiche più recenti, il supporto, "
+"forum e bug-fix, è necessario un sacco di tempo. Per questo chiedo "
+"gentilmente di prendere in considerazione di fare una piccola donazione per "
+"il plugin o se volete un semplice voto su Wordpress.org. Grazie in anticipo!"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:15
+msgid "Rate on Wordpress.org"
+msgstr "Vota su Wordpress.org"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:24
+msgid "Frequently Asked Questions (FAQ)"
+msgstr "Domande frequenti (FAQ)"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:4
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:9
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:18
+msgid "Insert a Slideshow"
+msgstr "inserire uno slideshow"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:12
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:51
+msgid "Insert Slideshow"
+msgstr "inserire slideshow"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:27
+msgid "Select a slideshow"
+msgstr "Seleziona una slideshow"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:36
+#: views/SlideshowReloadedWidget/form.php:12
+msgid "Untitled slideshow"
+msgstr "Presentazione senza titolo"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:56
+msgid "Cancel"
+msgstr "Cancella"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:67
+#, php-format
+msgid ""
+"It seems you haven't created any slideshows yet. %sYou can create a "
+"slideshow here!%s"
+msgstr ""
+"Sembra che non sono ancora stati creati slideshow. %sPuoi creare una "
+"presentazione qui!%s"
+
+#: views/SlideshowReloadedSlideInserter/search-popup.php:6
+msgid "Search"
+msgstr "Cerca"
+
+#: views/SlideshowReloadedSlideInserter/search-popup.php:7
+msgid "Search images by title or ID"
+msgstr "Cerca immagini per titolo o ID"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:90
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:4
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:89
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:130
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:58
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:21
+msgid "Click to toggle"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:160
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:69
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:190
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:131
+msgid "Don't let search engines follow link"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:168
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:197
+msgid "Alternative text"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:48
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:110
+msgid "Text color"
+msgstr "Colore del testo"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:53
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:115
+msgid "(Leave empty for a transparent background)"
+msgstr "(Lascia vuoto per uno sfondo trasparente)"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:110
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:42
+msgid "Show related videos"
+msgstr ""
+
+#: views/SlideshowReloadedUpload/upload-button.php:1
+msgid "Upload/Manage Images"
+msgstr "Carica / Gestire le immagini"
+
+#: views/SlideshowReloadedWidget/form.php:9
+msgid "Random Slideshow"
+msgstr "Slideshow a caso"
+
+#~ msgid "Fit image into slide (Stretch image)"
+#~ msgstr "Inserire un'immagine in diapositiva (stendere immagine)"
+
+#~ msgid "Leave any field open to use default value."
+#~ msgstr "Een veld dat open wordt gelaten neemt de standaardwaarde aan."

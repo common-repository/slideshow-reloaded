@@ -1,0 +1,46 @@
+.slideshow_container_style-light .slideshow_controlPanel {
+	width: 21px;
+	height: 21px;
+	margin-left: -11px;
+	background: #000;
+	border-radius: 2px;
+	-moz-border-radius: 10px;
+}
+
+.slideshow_container_style-light .slideshow_controlPanel ul li {
+	margin: 3px;
+	width: 15px;
+	height: 15px;
+}
+
+.slideshow_container_style-light .slideshow_play {
+	background: url('../images/light-controlpanel.png') 0 0 no-repeat;
+}
+
+.slideshow_container_style-light .slideshow_pause {
+	background: url('../images/light-controlpanel.png') -15px 0 no-repeat;
+}
+
+.slideshow_container_style-light .slideshow_button {
+	margin-top: -20px;
+	height: 40px;
+	width: 19px;
+	background: url('../images/light-arrows.png') no-repeat;
+}
+
+.slideshow_container_style-light .slideshow_next {
+	background-position: -19px 0;
+}
+
+.slideshow_container_style-light .slideshow_pagination {
+	bottom: 16px;
+}
+
+.slideshow_container_style-light .slideshow_pagination ul {}
+
+.slideshow_container_style-light .slideshow_pagination ul li {
+	margin: 0 2px;
+	width: 11px;
+	height: 11px;
+	background: url('../images/light-bullet.png') no-repeat;
+}

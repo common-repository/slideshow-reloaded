@@ -1,0 +1,264 @@
+.slideshow_container {
+	position: relative;
+	width: 100%;
+	min-width: none !important;
+	max-width: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.slideshow_container div {
+	clear: none !important;
+	max-width: none !important;
+	padding: 0;
+}
+
+.slideshow_container img {
+	border: none;
+	margin: 0;
+	padding: 0;
+	max-width: none !important;
+}
+
+.slideshow_container p {
+	margin: 0;
+	padding: 10px;
+}
+
+.slideshow_container a {
+	margin: 0 !important;
+	padding: 0 !important;
+	display: block !important;
+}
+
+.slideshow_container ul {
+	margin: 0;
+	padding: 0;
+}
+
+.slideshow_container ul li {
+	margin: 0;
+	padding: 0;
+}
+
+.slideshow_container h1,
+.slideshow_container h2,
+.slideshow_container h3,
+.slideshow_container h4,
+.slideshow_container h5,
+.slideshow_container h6 {
+	margin: 0;
+	padding: 10px;
+}
+
+.slideshow_container button, .slideshow_container *[role="button"] {
+	outline: none;
+}
+
+.slideshow_content {
+	position: relative !important;
+	overflow: hidden !important;
+	max-width: none !important;
+	min-width: none !important;
+}
+
+.slideshow_view {
+	position: absolute !important;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	overflow: hidden !important;
+}
+
+.slideshow_slide {
+	position: relative !important;
+	float: left !important;
+	overflow: hidden !important;
+}
+
+.slideshow_background_anchor {
+	position: absolute;
+	top: 0;
+}
+
+.slideshow_view video {
+	float: none;
+	width: 100%;
+	height: 100%;
+}
+
+.slideshow_view img {
+	float: none;
+}
+
+.slideshow_description_box {
+	display: none;
+	position: absolute;
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.slideshow_controlPanel {
+	position: absolute;
+	top: 5px;
+	left: 50%;
+	display: none;
+	z-index: 2;
+}
+
+.slideshow_controlPanel ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.slideshow_controlPanel ul li {
+	float: left;
+}
+
+.slideshow_controlPanel ul li:hover {
+	cursor: pointer;
+}
+
+.slideshow_button {
+	padding: 0;
+	position: absolute;
+	top: 50%;
+	cursor: pointer;
+	display: none;
+	z-index: 2;
+}
+
+.slideshow_previous {
+	left: 5px;
+}
+
+.slideshow_next {
+	right: 5px;
+}
+
+.slideshow_pagination {
+	height: 0;
+	position: absolute;
+	width: 100%;
+	display: none;
+	z-index: 2;
+}
+
+.slideshow_pagination_center {
+	display: table;
+	margin: 0 auto;
+}
+
+.slideshow_pagination_center ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.slideshow_pagination_center ul li {
+	display: inline;
+	float: left;
+}
+
+.slideshow_pagination_center ul li:hover {
+	cursor: pointer;
+}
+
+.slideshow_container .assistive-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+}
+
+.slideshow_container .hide-text {
+	font: 0/0 a;
+	color: rgba(0, 0, 0, 0);
+	text-shadow: none;
+	background-color: rgba(0, 0, 0, 0);
+	border: 0;
+}
+
+.slideshow_container a {
+	text-decoration: none;
+}
+
+.slideshow_container a:hover {
+	text-decoration: none;
+}
+
+.slideshow_slide {
+	margin-right: 2px;
+}
+
+div.slideshow_title {
+	font-size: 1.3em;
+}
+
+.slideshow_slide_text div,
+.slideshow_slide_text p,
+.slideshow_slide_text h1,
+.slideshow_slide_text h2,
+.slideshow_slide_text h3,
+.slideshow_slide_text h4,
+.slideshow_slide_text h5,
+.slideshow_slide_text h6 {
+	text-align: center;
+}
+
+.slideshow_description_box {
+	background: #000;
+	width: 100%;
+}
+
+.slideshow_description_box div.slideshow_title {
+	font-size: 1.3em;
+	;
+}
+
+.slideshow_description_box div,
+.slideshow_description_box div a,
+.slideshow_description_box p,
+.slideshow_description_box p a,
+.slideshow_description_box h1,
+.slideshow_description_box h1 a,
+.slideshow_description_box h2,
+.slideshow_description_box h2 a,
+.slideshow_description_box h3,
+.slideshow_description_box h3 a,
+.slideshow_description_box h4,
+.slideshow_description_box h4 a,
+.slideshow_description_box h5,
+.slideshow_description_box h5 a,
+.slideshow_description_box h6,
+.slideshow_description_box h6 a {
+	text-align: center;
+	color: #fff;
+}
+
+.slideshow_loading_icon {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 32px;
+	height: 32px;
+	margin: -16px 0 0 -16px;
+	background: url('../images/loading-icon-128x128.gif') no-repeat;
+	background-size: 32px 32px;
+}
+
+.slideshow_transparent {
+	transition: opacity 0.2s;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.slideshow_transparent:hover {
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+}
+
+.slideshow_pagination .slideshow_currentView {
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+}

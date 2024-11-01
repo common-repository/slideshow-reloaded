@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slideshow Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 11:56+0100\n"
+"PO-Revision-Date: 2014-08-19 11:56+0100\n"
+"Last-Translator: HOTTA Michihide <hotta@net-newbie.com>\n"
+"Language-Team: Stefan Boonstra <wordpress@stefanboonstra.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/SlideshowReloadedGeneralSettings.php:82
+#: includes/SlideshowReloadedGeneralSettings.php:83
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:14
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/SlideshowReloadedGeneralSettings.php:150
+msgid "New"
+msgstr "New"
+
+#: includes/SlideshowReloadedGeneralSettings.php:151
+msgid "Are you sure you want to delete this custom style?"
+msgstr "このカスタムスタイルを削除してよろしいですか？"
+
+#: includes/SlideshowReloadedGeneralSettings.php:196
+#: includes/SlideshowReloadedInstaller.php:803
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:6
+msgid "Light"
+msgstr "Light"
+
+#: includes/SlideshowReloadedGeneralSettings.php:197
+#: includes/SlideshowReloadedInstaller.php:803
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:7
+msgid "Dark"
+msgstr "Dark"
+
+#: includes/SlideshowReloadedGeneralSettings.php:353
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:57
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:143
+msgid "Untitled"
+msgstr "タイトルなし"
+
+#: includes/SlideshowReloadedInstaller.php:800
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:472
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:111
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:43
+msgid "Yes"
+msgstr "はい"
+
+#: includes/SlideshowReloadedInstaller.php:801
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:473
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:112
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:44
+msgid "No"
+msgstr "いいえ"
+
+#: includes/SlideshowReloadedInstaller.php:803
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:610
+msgid "The style used for this slideshow"
+msgstr "このスライドショーで使用するスタイル"
+
+#: includes/SlideshowReloadedInstaller.php:803
+msgid "Custom"
+msgstr "カスタム"
+
+#: includes/SlideshowReloadedInstaller.php:804
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:126
+msgid "Custom style editor"
+msgstr "カスタムスタイルエディタ"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:518
+msgid "Animation used for transition between slides"
+msgstr "スライド遷移の際に使用するアニメーション"
+
+#: includes/SlideshowReloadedInstaller.php:805
+msgid "Slide"
+msgstr "スライド"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Fade"
+msgstr "フェード"
+
+#: includes/SlideshowReloadedInstaller.php:805
+#: includes/SlideshowReloadedInstaller.php:806
+#: includes/SlideshowReloadedInstaller.php:807
+#: includes/SlideshowReloadedInstaller.php:808
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:548
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:549
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:550
+msgid "Animation"
+msgstr "アニメーション"
+
+#: includes/SlideshowReloadedInstaller.php:806
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:519
+msgid "Number of seconds the slide takes to slide in"
+msgstr "スライドがスライド・インするために要する秒数"
+
+#: includes/SlideshowReloadedInstaller.php:807
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:520
+msgid "Number of seconds the description takes to slide in"
+msgstr "説明文がスライド・インするために要する秒数"
+
+#: includes/SlideshowReloadedInstaller.php:808
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:521
+msgid "Seconds between changing slides"
+msgstr "スライドを切り替える間の秒数"
+
+#: includes/SlideshowReloadedInstaller.php:809
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:522
+msgid "Number of slides to fit into one slide"
+msgstr "同時に表示するスライドの枠（分割数）"
+
+#: includes/SlideshowReloadedInstaller.php:809
+#: includes/SlideshowReloadedInstaller.php:810
+#: includes/SlideshowReloadedInstaller.php:811
+#: includes/SlideshowReloadedInstaller.php:812
+#: includes/SlideshowReloadedInstaller.php:813
+#: includes/SlideshowReloadedInstaller.php:814
+#: includes/SlideshowReloadedInstaller.php:815
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:551
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:552
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:553
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:554
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:556
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:557
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:558
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:559
+msgid "Display"
+msgstr "画面"
+
+#: includes/SlideshowReloadedInstaller.php:810
+msgid "Width of the slideshow, set to parent&#39;s width on 0"
+msgstr "スライドショーの幅。親の幅を 0 にします。"
+
+#: includes/SlideshowReloadedInstaller.php:811
+msgid "Height of the slideshow"
+msgstr "スライドショーの高さ"
+
+#: includes/SlideshowReloadedInstaller.php:812
+msgid "Height of the description boxes"
+msgstr "説明文ボックスの高さ"
+
+#: includes/SlideshowReloadedInstaller.php:813
+msgid "Fit image into slide (stretching it)"
+msgstr "画像をスライドの大きさに合わせる（拡大する）"
+
+#: includes/SlideshowReloadedInstaller.php:814
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:529
+msgid "Show title and description"
+msgstr "タイトルと説明文を表示する"
+
+#: includes/SlideshowReloadedInstaller.php:815
+msgid "Hide description box, it will pop up when a mouse hovers over the slide"
+msgstr ""
+"説明文ボックスを隠しておき、スライド上でマウスオーバーしたらポップアップする"
+
+#: includes/SlideshowReloadedInstaller.php:816
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:531
+msgid "Automatically slide to the next slide"
+msgstr "自動的に次のスライドを表示する"
+
+#: includes/SlideshowReloadedInstaller.php:816
+#: includes/SlideshowReloadedInstaller.php:817
+#: includes/SlideshowReloadedInstaller.php:818
+#: includes/SlideshowReloadedInstaller.php:819
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:560
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:561
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:562
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:563
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:564
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:565
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:566
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:567
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:568
+msgid "Control"
+msgstr "コントロール"
+
+#: includes/SlideshowReloadedInstaller.php:817
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:532
+msgid "Return to the beginning of the slideshow after last slide"
+msgstr "最終スライドの次は先頭に戻る"
+
+#: includes/SlideshowReloadedInstaller.php:818
+msgid "Activate buttons (so the user can scroll through the slides)"
+msgstr "ボタンを有効にする（ユーザはスライドを通してスクロールできます）"
+
+#: includes/SlideshowReloadedInstaller.php:819
+msgid "Show control panel (play and pause button)"
+msgstr "コントロールパネル（再生／停止ボタン）を表示する"
+
+#: includes/SlideshowReloadedPostType.php:45
+msgid "Slideshows"
+msgstr "スライドショー"
+
+#: includes/SlideshowReloadedPostType.php:46
+#: views/SlideshowReloadedWidget/form.php:7
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: includes/SlideshowReloadedPostType.php:47
+msgid "Add New Slideshow"
+msgstr "新しいスライドショーを追加する"
+
+#: includes/SlideshowReloadedPostType.php:48
+msgid "Edit slideshow"
+msgstr "スライドショーの編集"
+
+#: includes/SlideshowReloadedPostType.php:49
+msgid "New slideshow"
+msgstr "新しいスライドショー"
+
+#: includes/SlideshowReloadedPostType.php:50
+msgid "View slideshow"
+msgstr "スライドショーを見る"
+
+#: includes/SlideshowReloadedPostType.php:51
+msgid "Search slideshows"
+msgstr "スライドショーを検索"
+
+#: includes/SlideshowReloadedPostType.php:52
+#: includes/SlideshowReloadedPostType.php:53
+msgid "No slideshows found"
+msgstr "スライドショーがありません"
+
+#: includes/SlideshowReloadedPostType.php:98
+msgid "Information"
+msgstr "参考情報"
+
+#: includes/SlideshowReloadedPostType.php:107
+msgid "Slides List"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:116
+msgid "Slideshow Style"
+msgstr "スライドショーのスタイル"
+
+#: includes/SlideshowReloadedPostType.php:125
+msgid "Slideshow Settings"
+msgstr "スライドショー設定"
+
+#: includes/SlideshowReloadedPostType.php:173
+msgid "Slideshow created"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:177
+msgid "Slideshow updated"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:224
+#: includes/SlideshowReloadedSlideInserter.php:238
+#: views/SlideshowReloadedPostType/slides.php:2
+msgid "Insert"
+msgstr "挿入"
+
+#: includes/SlideshowReloadedPostType.php:232
+msgid "Open all"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:234
+msgid "Close all"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:240
+#: views/SlideshowReloadedPostType/slides.php:10
+msgid "Add slides to this slideshow by using one of the buttons above."
+msgstr "上のボタンのいずれかを使ってこのスライドショーにスライドを追加します"
+
+#: includes/SlideshowReloadedPostType.php:320
+msgid "Duplicate"
+msgstr ""
+
+#: includes/SlideshowReloadedPostType.php:371
+msgid "Copy"
+msgstr ""
+
+#: includes/SlideshowReloadedShortcode.php:148
+msgid "No slideshow selected."
+msgstr "スライドショーが選択されていません"
+
+#: includes/SlideshowReloadedSlideInserter.php:194
+msgid "More results loaded"
+msgstr "次の画像をロードしました"
+
+#: includes/SlideshowReloadedSlideInserter.php:249
+msgid "Load more results"
+msgstr "より多くの画像をロードする"
+
+#: includes/SlideshowReloadedSlideInserter.php:260
+msgid "No images were found, click here to upload some."
+msgstr "画像が見つかりませんでした。ここをクリックしてアップロードできます。"
+
+#: includes/SlideshowReloadedSlideInserter.php:332
+msgid "Are you sure you want to delete this slide?"
+msgstr "このスライドを削除してよろしいですか？"
+
+#: includes/SlideshowReloadedSlideInserter.php:333
+msgid "Insert image slide"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:523
+msgid "Maximum width. When maximum width is 0, maximum width is ignored"
+msgstr "最大幅。0 の場合は無視されます。"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+msgid "http://en.wikipedia.org/wiki/Aspect_ratio_(image)"
+msgstr ""
+"http://ja.wikipedia.org/wiki/%E7%94%BB%E9%9D%A2%E3%82%A2%E3%82%B9%E3%83%9A"
+"%E3%82%AF%E3%83%88%E6%AF%94"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+msgid "More info"
+msgstr "詳細情報"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:524
+#, php-format
+msgid ""
+"Proportional relationship%s between slideshow's width and height (width:"
+"height)"
+msgstr "スライドショーの幅と高さの間のアスペクト比%s(幅:高さ)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:525
+msgid "Slideshow's height"
+msgstr "スライドショーの高さ"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:526
+msgid "Image behaviour"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:527
+msgid "Shrink slideshow's height when width shrinks"
+msgstr "スライドショーの幅を縮めたら高さも縮める"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:528
+msgid ""
+"Enable responsiveness (Shrink slideshow's width when page's width shrinks)"
+msgstr ""
+"レスポンシブを有効にする（ページ幅を縮めたらスライドショーの幅も縮める）"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:530
+msgid "Hide description box, pop up when mouse hovers over"
+msgstr "説明文ボックスを隠しておき、マウスオーバーしたらポップアップする"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:533
+msgid "Pause slideshow when mouse hovers over"
+msgstr "マウスオーバーしたらスライドショーを一時停止する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:534
+msgid "Activate navigation buttons"
+msgstr "ナビゲーションボタンを表示する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:535
+msgid "Hide navigation buttons, show when mouse hovers over"
+msgstr "ナビゲーションボタンは隠しておき、マウスオーバーしたら表示する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:536
+msgid "Activate pagination"
+msgstr "ページ制御を有効にする"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:537
+msgid "Hide pagination, show when mouse hovers over"
+msgstr "ページ制御は隠しておき、マウスオーバーしたら表示する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:538
+msgid "Activate control panel (play and pause button)"
+msgstr "コントロールパネル（再生／停止ボタン）を有効にする"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:539
+msgid "Hide control panel, show when mouse hovers over"
+msgstr "コントロールパネルは隠しておき、マウスオーバーしたら表示する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:540
+msgid "Wait until the next slide has loaded before showing it"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:541
+msgid "Show a loading icon until the first slide appears"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:542
+msgid "Randomize slides"
+msgstr "スライドをランダムに表示する"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:543
+#, php-format
+msgid "Avoid content filter (disable if '%s' is shown)"
+msgstr "コンテントフィルターを回避する('%s'が表示されたら無効にする)"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Left"
+msgstr "左へスライド"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Right"
+msgstr "右へスライド"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Up"
+msgstr "上へスライド"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Slide Down"
+msgstr "下へスライド"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Cross Fade"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Direct Fade"
+msgstr "ダイレクト・フェード"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:547
+msgid "Random Animation"
+msgstr "ランダムなアニメーション"
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Natural and centered"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Crop to fit"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:555
+msgid "Stretch to fit"
+msgstr ""
+
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:569
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:570
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:571
+#: includes/SlideshowReloadedSlideshowSettingsHandler.php:572
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: includes/SlideshowReloadedWidget.php:23
+msgid "Enables you to show your slideshows in the widget area of your website."
+msgstr "あなたのWebサイト上のウィジェット領域でスライドショーを表示する"
+
+#: includes/SlideshowReloadedWidget.php:29
+msgid "Slideshow Widget"
+msgstr "スライドショー・ウィジェット"
+
+#: views/SlideshowReloaded/slideshow.php:23
+msgid "Play"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:23
+msgid "Pause"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:25
+msgid "Previous"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:26
+msgid "Next"
+msgstr ""
+
+#: views/SlideshowReloaded/slideshow.php:28
+msgid "Go to slide"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:46
+msgid "Default stylesheets"
+msgstr "デフォルトのスタイルシート"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:60
+msgid "Create a new custom style from this style"
+msgstr "このスタイルから新しいカスタムスタイルを作成する"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:62
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:76
+msgid "Custom stylesheets"
+msgstr "カスタマイズされたスタイルシート"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:89
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:172
+msgid "Edit this style"
+msgstr "このスタイルを編集する"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:91
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:174
+#: views/SlideshowReloadedPostType/slides.php:138
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:112
+msgid "Edit"
+msgstr "編集"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:98
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:181
+msgid "Delete this style"
+msgstr "このスタイルを削除する"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:100
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:183
+msgid "Delete"
+msgstr "削除"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:110
+msgid "Click 'Customize' to create a new custom stylesheet."
+msgstr "'カスタマイズ'をクリックして新しくカスタムスタイルシートを作成する"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:130
+msgid "Select a stylesheet to start customizing it."
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:139
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:192
+#: views/SlideshowReloadedPostType/slides.php:59
+#: views/SlideshowReloadedPostType/slides.php:144
+#: views/SlideshowReloadedPostType/slides.php:196
+#: views/SlideshowReloadedPostType/slides.php:264
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:120
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:18
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:150
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:80
+#: views/SlideshowReloadedWidget/form.php:2
+msgid "Title"
+msgstr "タイトル"
+
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:148
+#: views/SlideshowReloadedGeneralSettings/custom-styles-tab.php:200
+msgid "Style"
+msgstr "スタイル"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:11
+msgid "Note"
+msgstr "注意"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:18
+#, php-format
+msgid ""
+"The settings set on this page apply only to newly created slideshows and "
+"therefore do not alter any existing ones. To adapt a slideshow's settings, "
+"%sclick here.%s"
+msgstr ""
+"このページの設定内容は、今後新しく作成されるスライドショーに対してのみ適用さ"
+"れます。このため既存のものについては変更しないでください。%sここをクリック%s"
+"して変更を適用します。"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:29
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:15
+msgid "Default Slideshow Settings"
+msgstr "デフォルトのスライドショー設定"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:41
+#: views/SlideshowReloadedPostType/settings.php:12
+msgid "settings"
+msgstr "設定"
+
+#: views/SlideshowReloadedGeneralSettings/default-slideshow-settings-tab.php:77
+msgid "Default Slideshow Stylesheet"
+msgstr "デフォルトのスライドショー用スタイルシート"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:11
+msgid "Add slideshows"
+msgstr "スライドショーの追加"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:12
+msgid "Edit slideshows"
+msgstr "スライドショーの編集"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:13
+msgid "Delete slideshows"
+msgstr "スライドショーの削除"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:20
+msgid "User Capabilities"
+msgstr "利用可能なユーザ"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:22
+msgid "Select the user roles that will able to perform certain actions."
+msgstr "特定の操作を実行可能なユーザロールを選択します。"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:38
+msgid "Untitled role"
+msgstr "名前のつけられていないロール"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:65
+msgid "Settings"
+msgstr "設定"
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:69
+msgid "Stylesheet location"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:72
+msgid "top"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings-tab.php:73
+msgid "bottom"
+msgstr ""
+
+#: views/SlideshowReloadedGeneralSettings/general-settings.php:16
+msgid "Custom Styles"
+msgstr "スタイルのカスタマイズ"
+
+#: views/SlideshowReloadedPostType/information.php:1
+msgid ""
+"To use this slideshow in your website either add this piece of shortcode to "
+"your posts or pages"
+msgstr ""
+"あなたのWebサイトでこのスライドショーを使用するには、このショートコード"
+
+#: views/SlideshowReloadedPostType/information.php:5
+msgid ""
+"Or add this piece of code to where ever in your website you want to place "
+"the slideshow"
+msgstr ""
+"をあなたの投稿または固定ページに記載するか、または、あなたのWebサイトの中でス"
+"ライドショーを設置したい所に以下のコードを記載します。"
+
+#: views/SlideshowReloadedPostType/information.php:9
+#, php-format
+msgid "Or go to the %swidgets page%s and show the slideshow as a widget."
+msgstr ""
+"または%sウィジェットページ%s に行き、スライドショーをウィジェットとして表示し"
+"ます。"
+
+#: views/SlideshowReloadedPostType/settings.php:26
+#: views/SlideshowReloadedPostType/style-settings.php:11
+msgid "Default"
+msgstr "デフォルト"
+
+#: views/SlideshowReloadedPostType/slides.php:54
+#: views/SlideshowReloadedPostType/slides.php:191
+#: views/SlideshowReloadedSlideInserter/insert-text-button.php:2
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:9
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:69
+msgid "Text slide"
+msgstr "テキストスライド"
+
+#: views/SlideshowReloadedPostType/slides.php:61
+#: views/SlideshowReloadedPostType/slides.php:150
+#: views/SlideshowReloadedPostType/slides.php:198
+#: views/SlideshowReloadedPostType/slides.php:270
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:135
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:33
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:165
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:95
+msgid "Description"
+msgstr "説明文"
+
+#: views/SlideshowReloadedPostType/slides.php:63
+#: views/SlideshowReloadedPostType/slides.php:200
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:51
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:113
+msgid "Background color"
+msgstr "背景色"
+
+#: views/SlideshowReloadedPostType/slides.php:68
+#: views/SlideshowReloadedPostType/slides.php:155
+#: views/SlideshowReloadedPostType/slides.php:205
+#: views/SlideshowReloadedPostType/slides.php:275
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:150
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:59
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:180
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:121
+msgid "URL"
+msgstr "URL"
+
+#: views/SlideshowReloadedPostType/slides.php:70
+#: views/SlideshowReloadedPostType/slides.php:157
+#: views/SlideshowReloadedPostType/slides.php:207
+#: views/SlideshowReloadedPostType/slides.php:277
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:153
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:62
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:183
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:124
+msgid "Open URL in"
+msgstr "URL を開く"
+
+#: views/SlideshowReloadedPostType/slides.php:72
+#: views/SlideshowReloadedPostType/slides.php:159
+#: views/SlideshowReloadedPostType/slides.php:209
+#: views/SlideshowReloadedPostType/slides.php:279
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:155
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:64
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:185
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:126
+msgid "Same window"
+msgstr "同じウィンドウ"
+
+#: views/SlideshowReloadedPostType/slides.php:73
+#: views/SlideshowReloadedPostType/slides.php:160
+#: views/SlideshowReloadedPostType/slides.php:210
+#: views/SlideshowReloadedPostType/slides.php:280
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:156
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:65
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:186
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:127
+msgid "New window"
+msgstr "新しいウィンドウ"
+
+#: views/SlideshowReloadedPostType/slides.php:90
+#: views/SlideshowReloadedPostType/slides.php:230
+#: views/SlideshowReloadedSlideInserter/insert-video-button.php:2
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:94
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:26
+msgid "Video slide"
+msgstr "ビデオスライド"
+
+#: views/SlideshowReloadedPostType/slides.php:95
+#: views/SlideshowReloadedPostType/slides.php:235
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:103
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:35
+msgid "Youtube Video ID"
+msgstr "ユーチューブビデオID"
+
+#: views/SlideshowReloadedPostType/slides.php:133
+#: views/SlideshowReloadedPostType/slides.php:255
+#: views/SlideshowReloadedSlideInserter/insert-image-button.php:2
+#: views/SlideshowReloadedSlideInserter/insert-image-button.php:4
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:101
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:135
+msgid "Image slide"
+msgstr "画像スライド"
+
+#: views/SlideshowReloadedPostType/slides.php:171
+msgid ""
+"An error occurred while loading this slide, and it will not be present in "
+"the slideshow"
+msgstr ""
+"このスライドを読み込む際にエラーが起こりました。これはスライドショーには存在"
+"しません。"
+
+#: views/SlideshowReloadedPostType/slides.php:177
+#: views/SlideshowReloadedPostType/slides.php:218
+#: views/SlideshowReloadedPostType/slides.php:243
+#: views/SlideshowReloadedPostType/slides.php:289
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:174
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:76
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:117
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:203
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:138
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:49
+msgid "Delete slide"
+msgstr "スライドを削除"
+
+#: views/SlideshowReloadedPostType/style-settings.php:22
+#, php-format
+msgid "Custom styles can be created and customized %shere%s."
+msgstr "%sここ%sでカスタムスライドを作ったりカスタマイズしたりできます。"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:3
+msgid "Help to keep this plugin free!"
+msgstr "このプラグインをフリーのままにしておけるようにご協力ください。"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:6
+msgid ""
+"In order to keep you provided with the newest features, updates and bug "
+"fixes, a lot of motivation is required. Therefore I'm kindly asking you to "
+"consider making a small donation to the plugin or rating it as 5-stars on "
+"Wordpress.org. Thank you in advance!"
+msgstr ""
+"最新機能、フォーラムのサポート、バグフィックス等のサービスを継続的に提供、す"
+"るためには、とにかくモチベーションを持続できることが必要です。できればこのプ"
+"ラグインに対してなにがしかの寄付をしていただくか、もしくは Wordpress.org で５"
+"つ星をください。よろしくお願いします。"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:15
+msgid "Rate on Wordpress.org"
+msgstr "Wordpress.org で格付け"
+
+#: views/SlideshowReloadedPostType/support-plugin.php:24
+msgid "Frequently Asked Questions (FAQ)"
+msgstr "よくある質問と回答(FAQ)"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:4
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:9
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:18
+msgid "Insert a Slideshow"
+msgstr "スライドショーを挿入する"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:12
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:51
+msgid "Insert Slideshow"
+msgstr "スライドショーを挿入する"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:27
+msgid "Select a slideshow"
+msgstr "スライドショーを選択する"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:36
+#: views/SlideshowReloadedWidget/form.php:12
+msgid "Untitled slideshow"
+msgstr "タイトルがついていないスライドショー"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:56
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/SlideshowReloadedShortcode/shortcode-inserter.php:67
+#, php-format
+msgid ""
+"It seems you haven't created any slideshows yet. %sYou can create a "
+"slideshow here!%s"
+msgstr ""
+"まだスライドショーのを１つも作成していないようです。%sここでスライドショーを"
+"作成できます!%s"
+
+#: views/SlideshowReloadedSlideInserter/search-popup.php:6
+msgid "Search"
+msgstr "検索"
+
+#: views/SlideshowReloadedSlideInserter/search-popup.php:7
+msgid "Search images by title or ID"
+msgstr "タイトルまたは IS で画像を検索"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:90
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:4
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:89
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:130
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:58
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:21
+msgid "Click to toggle"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:160
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:69
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:190
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:131
+msgid "Don't let search engines follow link"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_attachment.php:168
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:197
+msgid "Alternative text"
+msgstr ""
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:48
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:110
+msgid "Text color"
+msgstr "テキストカラー"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:53
+#: views/SlideshowReloadedSlideshowSlide/backend_text.php:115
+msgid "(Leave empty for a transparent background)"
+msgstr "（背景を透明にするには空のままにしておきます）"
+
+#: views/SlideshowReloadedSlideshowSlide/backend_templates.php:110
+#: views/SlideshowReloadedSlideshowSlide/backend_video.php:42
+msgid "Show related videos"
+msgstr ""
+
+#: views/SlideshowReloadedUpload/upload-button.php:1
+msgid "Upload/Manage Images"
+msgstr "画像をアップロード／管理する"
+
+#: views/SlideshowReloadedWidget/form.php:9
+msgid "Random Slideshow"
+msgstr "ランダムなスライドショー"
+
+#~ msgid "Fit image into slide (Stretch image)"
+#~ msgstr "スライドに画像サイズを合わせる（画像の伸長）"
+
+#~ msgid "Leave any field open to use default value."
+#~ msgstr "Een veld dat open wordt gelaten neemt de standaardwaarde aan."
